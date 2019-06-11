@@ -1,0 +1,1 @@
+CREATE database Khramykh_univer;
